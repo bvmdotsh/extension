@@ -1,3 +1,21 @@
+## extension installation
+
+1. Unzip the bvmdotsh chrome extension.
+2. Visit chrome://extensions
+3. Turn on developer mode (generally on the top right side).
+4. Click on the **Load unpacked** and select the build folder.
+5. Voila, you have successfully installed the chrome extension.
+
+Suggestion: Pin the bvmdotsh chrome extension and press Ctrl + Shift + Q to open the bvmdotsh sidepanel.
+
+For any help, suggestions or feedback, please do not hesitate to reach me out at anshik@bvm.sh.
+
+## social links
+
+**Website:** https://www.bvm.sh
+**X:** https://www.x.com/bvmdotsh
+**Instagram:** https://www.instagram.com/bvmdotsh
+
 # about
 
 In a groundbreaking move, the world of automation has just gotten a whole lot more exciting. Say hello to **bvmdotsh**, the pioneering Chrome extension that harnesses the power of workflows, APIs, and generative AI to automate any task, no coding required.
@@ -23,15 +41,3 @@ But that's not all. bvmdotsh also allows users to automate a wide range of websi
 With the introduction of bvmdotsh, the future of automation is here. Unlock unparalleled productivity, automate anything, and break free from the chains of repetitive tasks. Install bvmdotsh today and step into a world where your potential is limitless.
 
 **Welcome to the bvmdotsh era.**
-
-## extension installation
-
-1. Unzip the bvmdotsh chrome extension.
-2. Visit chrome://extensions
-3. Turn on developer mode (generally on the top right side).
-4. Click on the **Load unpacked** and select the build folder.
-5. Voila, you have successfully installed the chrome extension.
-
-Suggestion: Pin the bvmdotsh chrome extension and press Ctrl + Shift + Q to open the bvmdotsh sidepanel.
-
-For any help, suggestions or feedback, please do not hesitate to reach me out at anshik@bvm.sh.
